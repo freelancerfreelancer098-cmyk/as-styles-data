@@ -1,0 +1,25 @@
+{
+  "id": "PROD001",
+  "name": "Classic Navy Blue Suit",
+  "category": "men",
+  "price": 12999,
+  "discount": 30,
+  "stock": 50,
+  "description": "Premium wool blend suit with perfect tailoring. Perfect for business meetings and formal events.",
+  "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+  "images": [
+    "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "https://images.unsplash.com/photo-1594938374184-f4938458c4a8?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "https://images.unsplash.com/photo-1507679799987-c73779587ccf?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  ],
+  "specifications": {
+    "Material": "Premium Wool Blend",
+    "Color": "Navy Blue",
+    "Size": "S, M, L, XL",
+    "Fit": "Slim Fit",
+    "Occasion": "Business, Formal"
+  },
+  "rating": 4.8,
+  "reviews": 124,
+  "createdAt": "2025-12-30T08:53:54.167Z"
+}
