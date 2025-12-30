@@ -38,7 +38,30 @@
       "createdAt": "2025-12-30T10:38:43.021Z"
     }
   ],
-  "orders": [],
+  "orders": [
+    {
+      "id": "ORD1767106029663",
+      "userId": "USR1767091123021",
+      "userName": "Ahmed",
+      "userEmail": "freelancerfreelancer098@gmail.com",
+      "userPhone": "21212121212121211",
+      "userAddress": "5",
+      "items": [
+        {
+          "id": "PROD1767105992960",
+          "name": "test",
+          "price": 7000,
+          "image": "https://kapok.pk/wp-content/uploads/2023/02/Sky-Grey-Shalwar-Kameez-1-768x1152.jpg",
+          "stock": 10,
+          "quantity": 1
+        }
+      ],
+      "total": 7000,
+      "paymentMethod": "Cash on Delivery",
+      "status": "pending",
+      "createdAt": "2025-12-30T14:47:09.663Z"
+    }
+  ],
   "carts": [],
   "settings": {
     "storeName": "AS Styles",
