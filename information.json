@@ -1,6 +1,17 @@
 {
   "products": [],
-  "users": [],
+  "users": [
+    {
+      "id": "USR1767091123021",
+      "name": "Ahmed",
+      "email": "freelancerfreelancer098@gmail.com",
+      "password": "aaAA11@@",
+      "phone": "21212121212121211",
+      "address": "5",
+      "type": "customer",
+      "createdAt": "2025-12-30T10:38:43.021Z"
+    }
+  ],
   "orders": [],
   "carts": [],
   "settings": {
