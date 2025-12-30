@@ -46,6 +46,16 @@
       "address": "No",
       "type": "customer",
       "createdAt": "2025-12-30T15:14:50.338Z"
+    },
+    {
+      "id": "USR1753555462104",
+      "name": "Saad Mirza",
+      "email": "saadmirzag49@gmail.com",
+      "password": "Saad12",
+      "phone": "03086009321",
+      "address": "Lahore road prime valley ",
+      "type": "customer",
+      "createdAt": "2025-07-26T18:44:22.104Z"
     }
   ],
   "orders": [
