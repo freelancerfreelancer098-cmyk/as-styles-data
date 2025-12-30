@@ -1,5 +1,31 @@
 {
-  "products": [],
+  "products": [
+    {
+      "id": "PROD1767105992960",
+      "name": "test",
+      "category": "men",
+      "price": 10000,
+      "discount": 30,
+      "stock": 10,
+      "status": "active",
+      "description": "test",
+      "image": "https://kapok.pk/wp-content/uploads/2023/02/Sky-Grey-Shalwar-Kameez-1-768x1152.jpg",
+      "images": [
+        "https://kapok.pk/wp-content/uploads/2023/02/Sky-Grey-Shalwar-Kameez-1-768x1152.jpg"
+      ],
+      "specifications": {
+        "Material": "Premium Fabric",
+        "Color": "Various",
+        "Size": "Available in all sizes",
+        "Fit": "Regular Fit",
+        "Occasion": "Formal, Business"
+      },
+      "rating": 4.5,
+      "reviews": 97,
+      "createdAt": "2025-12-30T14:46:32.960Z",
+      "updatedAt": "2025-12-30T14:46:32.960Z"
+    }
+  ],
   "users": [
     {
       "id": "USR1767091123021",
