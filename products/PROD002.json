@@ -1,0 +1,24 @@
+{
+  "id": "PROD002",
+  "name": "Women's Blazer & Pants Set",
+  "category": "women",
+  "price": 9999,
+  "discount": 25,
+  "stock": 35,
+  "description": "Modern fit women's suit with elegant design. Perfect for professional women.",
+  "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+  "images": [
+    "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "https://images.unsplash.com/photo-1584917865442-de89df76afd3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  ],
+  "specifications": {
+    "Material": "Polyester Blend",
+    "Color": "Black",
+    "Size": "XS, S, M, L",
+    "Fit": "Regular Fit",
+    "Occasion": "Office, Formal"
+  },
+  "rating": 4.7,
+  "reviews": 89,
+  "createdAt": "2025-12-30T08:53:54.167Z"
+}
