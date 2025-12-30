@@ -36,6 +36,16 @@
       "address": "5",
       "type": "customer",
       "createdAt": "2025-12-30T10:38:43.021Z"
+    },
+    {
+      "id": "USR1767107690338",
+      "name": "Saad mirza",
+      "email": "saadmirza@gmail.com",
+      "password": "aaAA11",
+      "phone": "4343423423423423",
+      "address": "No",
+      "type": "customer",
+      "createdAt": "2025-12-30T15:14:50.338Z"
     }
   ],
   "orders": [
