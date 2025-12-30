@@ -1,28 +1,6 @@
 {
   "products": [
     {
-      "id": "PROD002",
-      "name": "Women's Blazer & Pants Set",
-      "category": "women",
-      "price": 9999,
-      "discount": 25,
-      "stock": 35,
-      "description": "Modern fit women's suit with elegant design. Perfect for professional women.",
-      "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-      "images": [
-        "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
-      ],
-      "specifications": {
-        "Material": "Polyester Blend",
-        "Color": "Black",
-        "Size": "XS, S, M, L",
-        "Fit": "Regular Fit"
-      },
-      "rating": 4.7,
-      "reviews": 89,
-      "createdAt": "2025-12-30T09:44:19.684Z"
-    },
-    {
       "id": "PROD003",
       "name": "Kids Tuxedo Set",
       "category": "kids",
