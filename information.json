@@ -1,5 +1,73 @@
 {
-  "products": [],
+  "products": [
+    {
+      "id": "PROD001",
+      "name": "Classic Navy Blue Suit",
+      "category": "men",
+      "price": 12999,
+      "discount": 30,
+      "stock": 50,
+      "description": "Premium wool blend suit with perfect tailoring. Perfect for business meetings and formal events.",
+      "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1594938374184-f4938458c4a8?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      ],
+      "specifications": {
+        "Material": "Premium Wool Blend",
+        "Color": "Navy Blue",
+        "Size": "S, M, L, XL",
+        "Fit": "Slim Fit"
+      },
+      "rating": 4.8,
+      "reviews": 124,
+      "createdAt": "2025-12-30T09:44:19.684Z"
+    },
+    {
+      "id": "PROD002",
+      "name": "Women's Blazer & Pants Set",
+      "category": "women",
+      "price": 9999,
+      "discount": 25,
+      "stock": 35,
+      "description": "Modern fit women's suit with elegant design. Perfect for professional women.",
+      "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      ],
+      "specifications": {
+        "Material": "Polyester Blend",
+        "Color": "Black",
+        "Size": "XS, S, M, L",
+        "Fit": "Regular Fit"
+      },
+      "rating": 4.7,
+      "reviews": 89,
+      "createdAt": "2025-12-30T09:44:19.684Z"
+    },
+    {
+      "id": "PROD003",
+      "name": "Kids Tuxedo Set",
+      "category": "kids",
+      "price": 5999,
+      "discount": 20,
+      "stock": 40,
+      "description": "Adorable tuxedo set for boys. Perfect for weddings and special occasions.",
+      "image": "https://images.unsplash.com/photo-1558769132-cb1e71d0c608?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1558769132-cb1e71d0c608?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      ],
+      "specifications": {
+        "Material": "Cotton Blend",
+        "Color": "Black",
+        "Size": "Age 3-12 Years",
+        "Fit": "Regular Fit"
+      },
+      "rating": 4.9,
+      "reviews": 67,
+      "createdAt": "2025-12-30T09:44:19.684Z"
+    }
+  ],
   "users": [],
   "orders": [],
   "carts": [],
