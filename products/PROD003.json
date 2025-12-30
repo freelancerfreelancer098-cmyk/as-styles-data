@@ -1,0 +1,24 @@
+{
+  "id": "PROD003",
+  "name": "Kids Tuxedo Set",
+  "category": "kids",
+  "price": 5999,
+  "discount": 20,
+  "stock": 40,
+  "description": "Adorable tuxedo set for boys. Perfect for weddings and special occasions.",
+  "image": "https://images.unsplash.com/photo-1558769132-cb1e71d0c608?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+  "images": [
+    "https://images.unsplash.com/photo-1558769132-cb1e71d0c608?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "https://images.unsplash.com/photo-1594736797933-d0c210fba1df?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+  ],
+  "specifications": {
+    "Material": "Cotton Blend",
+    "Color": "Black",
+    "Size": "Age 3-12 Years",
+    "Fit": "Regular Fit",
+    "Occasion": "Weddings, Parties"
+  },
+  "rating": 4.9,
+  "reviews": 67,
+  "createdAt": "2025-12-30T08:53:54.167Z"
+}
