@@ -16,10 +16,13 @@
   "carts": [],
   "settings": {
     "storeName": "AS Styles",
-    "storeEmail": "info@asstyles.com",
+    "storeEmail": "asstylesbuisness@gmail.com",
+    "storePhone": "+923024693551",
+    "storeAddress": "123 Fashion Street, Style City",
+    "deliveryCharges": 200,
+    "taxRate": 13,
     "easyPaisaNumber": "03024693551",
     "accountName": "Muhammad Saad Mirza",
-    "deliveryCharges": 200,
-    "taxRate": 13
+    "updatedAt": "2025-12-30T14:03:31.145Z"
   }
 }
