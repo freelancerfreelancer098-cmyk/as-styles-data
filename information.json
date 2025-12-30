@@ -80,6 +80,28 @@
       "paymentMethod": "Cash on Delivery",
       "status": "pending",
       "createdAt": "2025-12-30T14:47:09.663Z"
+    },
+    {
+      "id": "ORD1753556352149",
+      "userId": "USR1753555462104",
+      "userName": "Saad Mirza",
+      "userEmail": "saadmirzag49@gmail.com",
+      "userPhone": "03086009321",
+      "userAddress": "Lahore road prime valley ",
+      "items": [
+        {
+          "id": "PROD1767105992960",
+          "name": "test",
+          "price": 7000,
+          "image": "https://kapok.pk/wp-content/uploads/2023/02/Sky-Grey-Shalwar-Kameez-1-768x1152.jpg",
+          "stock": 10,
+          "quantity": 3
+        }
+      ],
+      "total": 21000,
+      "paymentMethod": "Cash on Delivery",
+      "status": "pending",
+      "createdAt": "2025-07-26T18:59:12.149Z"
     }
   ],
   "carts": [],
