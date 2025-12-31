@@ -20,10 +20,46 @@
         "Fit": "Regular Fit",
         "Occasion": "Formal, Business"
       },
-      "rating": 4.5,
-      "reviews": 41,
+      "rating": 5,
+      "reviews": 1,
       "createdAt": "2025-12-31T14:47:00.998Z",
-      "updatedAt": "2025-12-31T14:47:00.998Z"
+      "updatedAt": "2025-12-31T14:47:00.998Z",
+      "reviewsList": [
+        {
+          "id": "REV1767196213278",
+          "userId": "USR1767091123021",
+          "userName": "Ahmed",
+          "rating": 5,
+          "comment": "epic!",
+          "date": "2025-12-31"
+        }
+      ]
+    }
+  ],
+  "coupleProducts": [],
+  "orders": [
+    {
+      "id": "ORD1753556746205",
+      "userId": "USR1753555462104",
+      "userName": "Saad Mirza",
+      "userEmail": "saadmirzag49@gmail.com",
+      "userPhone": "03086009321",
+      "userAddress": "Lahore road prime valley ",
+      "items": [
+        {
+          "id": "PROD1767105992960",
+          "name": "test",
+          "price": 7000,
+          "image": "https://kapok.pk/wp-content/uploads/2023/02/Sky-Grey-Shalwar-Kameez-1-768x1152.jpg",
+          "stock": 10,
+          "quantity": 2
+        }
+      ],
+      "total": 14000,
+      "paymentMethod": "Cash on Delivery",
+      "status": "delivered",
+      "createdAt": "2025-07-26T19:05:46.205Z",
+      "updatedAt": "2025-12-31T14:59:38.668Z"
     }
   ],
   "users": [
@@ -58,41 +94,12 @@
       "createdAt": "2025-07-26T18:44:22.104Z"
     }
   ],
-  "orders": [
-    {
-      "id": "ORD1753556746205",
-      "userId": "USR1753555462104",
-      "userName": "Saad Mirza",
-      "userEmail": "saadmirzag49@gmail.com",
-      "userPhone": "03086009321",
-      "userAddress": "Lahore road prime valley ",
-      "items": [
-        {
-          "id": "PROD1767105992960",
-          "name": "test",
-          "price": 7000,
-          "image": "https://kapok.pk/wp-content/uploads/2023/02/Sky-Grey-Shalwar-Kameez-1-768x1152.jpg",
-          "stock": 10,
-          "quantity": 2
-        }
-      ],
-      "total": 14000,
-      "paymentMethod": "Cash on Delivery",
-      "status": "delivered",
-      "createdAt": "2025-07-26T19:05:46.205Z",
-      "updatedAt": "2025-12-31T14:59:38.668Z"
-    }
-  ],
-  "carts": [],
   "settings": {
     "storeName": "AS Styles",
     "storeEmail": "asstylesbuisness@gmail.com",
     "storePhone": "+923024693551",
-    "storeAddress": "123 Fashion Street, Style City",
-    "deliveryCharges": 200,
-    "taxRate": 13,
     "easyPaisaNumber": "03024693551",
     "accountName": "Muhammad Saad Mirza",
-    "updatedAt": "2025-12-30T14:03:35.423Z"
+    "updatedAt": "2025-12-31T15:50:15.383Z"
   }
 }
