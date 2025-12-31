@@ -60,51 +60,6 @@
   ],
   "orders": [
     {
-      "id": "ORD1767106029663",
-      "userId": "USR1767091123021",
-      "userName": "Ahmed",
-      "userEmail": "freelancerfreelancer098@gmail.com",
-      "userPhone": "21212121212121211",
-      "userAddress": "5",
-      "items": [
-        {
-          "id": "PROD1767105992960",
-          "name": "test",
-          "price": 7000,
-          "image": "https://kapok.pk/wp-content/uploads/2023/02/Sky-Grey-Shalwar-Kameez-1-768x1152.jpg",
-          "stock": 10,
-          "quantity": 1
-        }
-      ],
-      "total": 7000,
-      "paymentMethod": "Cash on Delivery",
-      "status": "processing",
-      "createdAt": "2025-12-30T14:47:09.663Z",
-      "updatedAt": "2025-12-31T02:11:44.875Z"
-    },
-    {
-      "id": "ORD1753556352149",
-      "userId": "USR1753555462104",
-      "userName": "Saad Mirza",
-      "userEmail": "saadmirzag49@gmail.com",
-      "userPhone": "03086009321",
-      "userAddress": "Lahore road prime valley ",
-      "items": [
-        {
-          "id": "PROD1767105992960",
-          "name": "test",
-          "price": 7000,
-          "image": "https://kapok.pk/wp-content/uploads/2023/02/Sky-Grey-Shalwar-Kameez-1-768x1152.jpg",
-          "stock": 10,
-          "quantity": 3
-        }
-      ],
-      "total": 21000,
-      "paymentMethod": "Cash on Delivery",
-      "status": "pending",
-      "createdAt": "2025-07-26T18:59:12.149Z"
-    },
-    {
       "id": "ORD1753556746205",
       "userId": "USR1753555462104",
       "userName": "Saad Mirza",
