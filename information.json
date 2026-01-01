@@ -26,12 +26,12 @@
       "updatedAt": "2025-12-31T14:47:00.998Z",
       "reviewsList": [
         {
-          "id": "REV1767196213278",
+          "id": "REV1767271769627",
           "userId": "USR1767091123021",
           "userName": "Ahmed",
           "rating": 5,
-          "comment": "epic!",
-          "date": "2025-12-31"
+          "comment": "Best suit!",
+          "date": "2026-01-01"
         }
       ]
     }
@@ -117,9 +117,8 @@
       },
       "paymentMethod": "cod",
       "paymentStatus": "pending",
-      "status": "completed",
-      "createdAt": "2026-01-01T12:44:04.178Z",
-      "updatedAt": "2026-01-01T12:45:16.401Z"
+      "status": "pending",
+      "createdAt": "2026-01-01T12:44:04.178Z"
     }
   ],
   "users": [
@@ -160,6 +159,6 @@
     "storePhone": "+923024693551",
     "easyPaisaNumber": "03024693551",
     "accountName": "Muhammad Saad Mirza",
-    "updatedAt": "2026-01-01T12:44:13.275Z"
+    "updatedAt": "2026-01-01T12:49:31.151Z"
   }
 }
