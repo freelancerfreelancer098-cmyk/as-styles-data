@@ -157,8 +157,11 @@
     "storeName": "AS Styles",
     "storeEmail": "asstylesbuisness@gmail.com",
     "storePhone": "+923024693551",
+    "storeAddress": "123 Fashion Street, Style City",
+    "deliveryCharges": 299,
+    "taxRate": 10,
     "easyPaisaNumber": "03024693551",
     "accountName": "Muhammad Saad Mirza",
-    "updatedAt": "2026-01-01T12:49:31.151Z"
+    "updatedAt": "2025-07-27T03:35:41.078Z"
   }
 }
