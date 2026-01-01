@@ -78,9 +78,9 @@
       ],
       "total": 14000,
       "paymentMethod": "Cash on Delivery",
-      "status": "delivered",
+      "status": "pending",
       "createdAt": "2025-07-26T19:05:46.205Z",
-      "updatedAt": "2025-12-31T14:59:38.668Z"
+      "updatedAt": "2025-07-27T00:31:17.445Z"
     },
     {
       "id": "ORD71156088891",
