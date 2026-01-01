@@ -89,6 +89,36 @@
       "status": "completed",
       "createdAt": "2025-07-26T23:05:56.088Z",
       "updatedAt": "2025-07-27T00:38:49.915Z"
+    },
+    {
+      "id": "ORD71444178862",
+      "userId": "USR1767091123021",
+      "items": [
+        {
+          "id": "PROD1767105992960",
+          "name": "test",
+          "price": 70000,
+          "image": "https://kapok.pk/wp-content/uploads/2023/02/Sky-Grey-Shalwar-Kameez-1-768x1152.jpg",
+          "quantity": 1
+        }
+      ],
+      "subtotal": 70000,
+      "shipping": 0,
+      "codCharge": 100,
+      "tax": 9100,
+      "total": 79200,
+      "shippingAddress": {
+        "name": "Ahmed",
+        "email": "freelancerfreelancer098@gmail.com",
+        "phone": "21212121212121211",
+        "address": "5",
+        "city": "Chk",
+        "postalCode": "111111111111111111111111111111111111"
+      },
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "status": "pending",
+      "createdAt": "2026-01-01T12:44:04.178Z"
     }
   ],
   "users": [
@@ -127,11 +157,8 @@
     "storeName": "AS Styles",
     "storeEmail": "asstylesbuisness@gmail.com",
     "storePhone": "+923024693551",
-    "storeAddress": "123 Fashion Street, Style City",
-    "deliveryCharges": 200,
-    "taxRate": 13,
     "easyPaisaNumber": "03024693551",
     "accountName": "Muhammad Saad Mirza",
-    "updatedAt": "2025-07-27T01:23:34.796Z"
+    "updatedAt": "2026-01-01T12:44:13.275Z"
   }
 }
