@@ -55,11 +55,20 @@
         "Fit": "Regular Fit",
         "Occasion": "Formal, Business"
       },
-      "rating": 4.5,
-      "reviews": 19,
+      "rating": 5,
+      "reviews": 1,
       "createdAt": "2025-07-27T03:50:44.168Z",
       "updatedAt": "2025-07-27T03:50:44.168Z",
-      "reviewsList": []
+      "reviewsList": [
+        {
+          "id": "REV1767285434196",
+          "userId": "USR1767091123021",
+          "userName": "Ahmed",
+          "rating": 5,
+          "comment": "best!",
+          "date": "2026-01-01"
+        }
+      ]
     }
   ],
   "coupleProducts": [
@@ -185,6 +194,6 @@
     "storePhone": "+923024693551",
     "easyPaisaNumber": "03024693551",
     "accountName": "Muhammad Saad Mirza",
-    "updatedAt": "2026-01-01T14:15:18.240Z"
+    "updatedAt": "2026-01-01T16:37:14.532Z"
   }
 }
