@@ -78,9 +78,9 @@
       ],
       "total": 14000,
       "paymentMethod": "Cash on Delivery",
-      "status": "pending",
+      "status": "processing",
       "createdAt": "2025-07-26T19:05:46.205Z",
-      "updatedAt": "2025-07-27T00:31:17.445Z"
+      "updatedAt": "2025-07-27T00:32:22.720Z"
     },
     {
       "id": "ORD71156088891",
@@ -111,7 +111,7 @@
       "paymentStatus": "pending",
       "status": "delivered",
       "createdAt": "2025-07-26T23:05:56.088Z",
-      "updatedAt": "2025-07-27T00:31:50.852Z"
+      "updatedAt": "2025-07-27T00:31:52.132Z"
     }
   ],
   "users": [
