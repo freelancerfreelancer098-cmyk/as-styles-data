@@ -109,9 +109,9 @@
       },
       "paymentMethod": "cod",
       "paymentStatus": "pending",
-      "status": "completed",
+      "status": "pending",
       "createdAt": "2025-07-26T23:05:56.088Z",
-      "updatedAt": "2025-07-27T00:36:26.267Z"
+      "updatedAt": "2025-07-27T00:37:11.123Z"
     }
   ],
   "users": [
