@@ -21,7 +21,7 @@
         "Occasion": "Formal, Business"
       },
       "rating": 5,
-      "reviews": 1,
+      "reviews": 2,
       "createdAt": "2025-12-31T14:47:00.998Z",
       "updatedAt": "2025-12-31T14:47:00.998Z",
       "reviewsList": [
@@ -32,6 +32,14 @@
           "rating": 5,
           "comment": "epic",
           "date": "2026-01-01"
+        },
+        {
+          "id": "REV1753682999878",
+          "userId": "USR1753555462104",
+          "userName": "Saad Mirza",
+          "rating": 5,
+          "comment": "good",
+          "date": "2025-07-28"
         }
       ]
     },
@@ -340,6 +348,6 @@
     "storePhone": "+923024693551",
     "easyPaisaNumber": "03024693551",
     "accountName": "Muhammad Saad Mirza",
-    "updatedAt": "2025-07-28T03:45:16.116Z"
+    "updatedAt": "2025-07-28T06:10:01.485Z"
   }
 }
