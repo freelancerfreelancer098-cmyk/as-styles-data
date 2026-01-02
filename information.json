@@ -61,12 +61,12 @@
       "updatedAt": "2025-07-27T03:50:44.168Z",
       "reviewsList": [
         {
-          "id": "REV1767285434196",
+          "id": "REV1767345954181",
           "userId": "USR1767091123021",
           "userName": "Ahmed",
           "rating": 5,
-          "comment": "best!",
-          "date": "2026-01-01"
+          "comment": "top",
+          "date": "2026-01-02"
         }
       ]
     }
@@ -256,6 +256,6 @@
     "storePhone": "+923024693551",
     "easyPaisaNumber": "03024693551",
     "accountName": "Muhammad Saad Mirza",
-    "updatedAt": "2026-01-02T04:34:13.198Z"
+    "updatedAt": "2026-01-02T09:25:54.667Z"
   }
 }
