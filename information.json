@@ -260,6 +260,36 @@
       "status": "processing",
       "createdAt": "2026-01-02T10:00:53.395Z",
       "updatedAt": "2026-01-02T10:02:25.734Z"
+    },
+    {
+      "id": "ORD74315475486",
+      "userId": "USR1753555462104",
+      "items": [
+        {
+          "id": "PROD1767105992960",
+          "name": "test",
+          "price": 70000,
+          "image": "https://kapok.pk/wp-content/uploads/2023/02/Sky-Grey-Shalwar-Kameez-1-768x1152.jpg",
+          "quantity": 1
+        }
+      ],
+      "subtotal": 70000,
+      "shipping": 0,
+      "codCharge": 100,
+      "tax": 9100,
+      "total": 79200,
+      "shippingAddress": {
+        "name": "Saad Mirza",
+        "email": "saadmirzag49@gmail.com",
+        "phone": "03086009321",
+        "address": "Lahore road prime valley ",
+        "city": "sargodha",
+        "postalCode": "42021"
+      },
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "status": "pending",
+      "createdAt": "2025-07-28T03:45:15.475Z"
     }
   ],
   "users": [
@@ -309,6 +339,6 @@
     "storePhone": "+923024693551",
     "easyPaisaNumber": "03024693551",
     "accountName": "Muhammad Saad Mirza",
-    "updatedAt": "2025-07-28T03:20:04.092Z"
+    "updatedAt": "2025-07-28T03:45:16.116Z"
   }
 }
