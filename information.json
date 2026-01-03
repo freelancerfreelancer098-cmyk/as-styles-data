@@ -393,15 +393,6 @@
       "address": "Lahore road prime valley ",
       "type": "customer",
       "createdAt": "2025-07-26T18:44:22.104Z"
-    },
-    {
-      "id": "USR1753672802209",
-      "name": "Zikria",
-      "email": "zikria234@gmail.com",
-      "phone": "03086578213",
-      "address": "Prime Valley house no 90",
-      "password": "DFhjuy76$%",
-      "createdAt": "2025-07-28T03:20:02.209Z"
     }
   ],
   "contactMessages": [
