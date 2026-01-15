@@ -439,12 +439,12 @@
     "easyPaisaNumber": "03024693551",
     "accountName": "Muhammad Saad Mirza",
     "deliveryCharges": 299,
-    "codFee": 100,
+    "codFee": 50,
     "taxRate": 13,
     "freeDeliveryThreshold": 4999,
     "storeHours": "Mon-Sat: 10AM-8PM, Sun: 12PM-6PM",
     "supportHours": "Mon-Fri: 9AM-8PM, Sat: 10AM-6PM",
-    "updatedAt": "2026-01-15T13:16:26.343Z"
+    "updatedAt": "2026-01-15T13:18:11.616Z"
   },
   "subCategories": [
     {
