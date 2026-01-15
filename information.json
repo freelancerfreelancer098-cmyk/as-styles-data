@@ -128,9 +128,18 @@
         "Gray",
         "white"
       ],
-      "rating": 4.7,
-      "reviews": 0,
-      "reviewsList": [],
+      "rating": 5,
+      "reviews": 1,
+      "reviewsList": [
+        {
+          "id": "REV1768503141488",
+          "userId": "USR1753734973867",
+          "userName": "Ali",
+          "rating": 5,
+          "comment": "very good",
+          "date": "2026-01-15T18:52:21.488Z"
+        }
+      ],
       "createdAt": "2025-07-28T06:14:23.303Z",
       "updatedAt": "2025-07-28T06:14:23.303Z"
     }
