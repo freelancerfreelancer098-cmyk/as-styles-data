@@ -4,6 +4,7 @@
       "id": "PROD1753588244166",
       "name": "3 piece unstich suit",
       "category": "women",
+      "subCategory": null,
       "price": 3999,
       "discount": 20,
       "stock": 100,
@@ -24,11 +25,9 @@
         "S",
         "M",
         "L",
-        "XL",
-        "XXL"
+        "XL"
       ],
       "colors": [
-        "Navy Blue",
         "Black",
         "Gray"
       ],
@@ -44,8 +43,8 @@
           "date": "2026-01-02"
         }
       ],
-      "createdAt": "2026-01-02T09:38:24.348Z",
-      "updatedAt": "2026-01-02T09:38:24.348Z"
+      "createdAt": "2026-01-18T02:49:52.709Z",
+      "updatedAt": "2026-01-18T02:49:52.709Z"
     },
     {
       "id": "PROD1753683263301",
