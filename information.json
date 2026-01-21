@@ -32,7 +32,8 @@
           "userName": "Ahmed",
           "rating": 3,
           "comment": "epic and best",
-          "date": "2026-01-20T02:38:07.894Z"
+          "date": "2026-01-20T02:38:07.894Z",
+          "replies": []
         }
       ],
       "specifications": {
@@ -105,7 +106,41 @@
       "createdAt": "2026-01-20T02:28:27.105Z"
     }
   ],
-  "orders": [],
+  "orders": [
+    {
+      "id": "ORD09737254409",
+      "userId": "USR1767091123021",
+      "items": [
+        {
+          "id": "COUP001",
+          "name": "Royal Couple Suit Set (Couple Set)",
+          "price": 16999.15,
+          "image": "https://images.unsplash.com/photo-1594938374184-f4938458c4a8?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "quantity": 1,
+          "isCouple": true,
+          "selectedSize": null,
+          "selectedColor": null
+        }
+      ],
+      "subtotal": 16999.15,
+      "shipping": 0,
+      "codCharge": 100,
+      "tax": 2209.8895,
+      "total": 19309.039500000003,
+      "shippingAddress": {
+        "name": "Ahmed",
+        "email": "freelancerfreelancer098@gmail.com",
+        "phone": "21212121212121211",
+        "address": "5",
+        "city": "1",
+        "postalCode": "1"
+      },
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "status": "pending",
+      "createdAt": "2026-01-21T15:35:37.255Z"
+    }
+  ],
   "users": [],
   "contactMessages": [],
   "settings": {
@@ -152,9 +187,5 @@
       "description": "Comfortable yet stylish casual wear",
       "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
     }
-  ],
-  "dashboardStats": {
-    "manualRevenue": null,
-    "lastRevenueUpdate": null
-  }
+  ]
 }
