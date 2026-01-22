@@ -371,14 +371,10 @@
     "storeName": "AS",
     "storeEmail": "asstylesbuisness@gmail.com",
     "storePhone": "+923024693551",
-    "storeAddress": "Near Baiga Paint Opposite Crystal Marriage Hall Lari Ada Road, Sargodh",
+    "storeAddress": "Near Baiga Paint Opposite Crystal Marriage Hall Lari Ada Road, Sargodha",
     "storeDescription": "Premium suits for every occasion. Quality and style guaranteed.",
     "easyPaisaNumber": "03024693551",
     "accountName": "Muhammad Saad Mirza",
-    "deliveryCharges": 299,
-    "codFee": 100,
-    "taxRate": 13,
-    "freeDeliveryThreshold": 4999,
     "storeHours": "Mon-Sat: 10AM-8PM, Sun: 12PM-6PM",
     "supportHours": "Mon-Fri: 9AM-8PM, Sat: 10AM-6PM"
   },
@@ -411,5 +407,9 @@
       "description": "Comfortable yet stylish casual wear",
       "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
     }
-  ]
+  ],
+  "dashboardStats": {
+    "manualRevenue": null,
+    "lastRevenueUpdate": null
+  }
 }
