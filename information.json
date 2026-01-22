@@ -187,8 +187,9 @@
       },
       "paymentMethod": "cod",
       "paymentStatus": "pending",
-      "status": "pending",
-      "createdAt": "2026-01-22T08:51:24.607Z"
+      "status": "cancelled",
+      "createdAt": "2026-01-22T08:51:24.607Z",
+      "updatedAt": "2026-01-22T10:43:29.596Z"
     },
     {
       "id": "ORD78157760309",
