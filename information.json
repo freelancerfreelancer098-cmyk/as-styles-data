@@ -42,7 +42,11 @@
         "Fit": "Regular Fit",
         "Occasion": "Formal, Business"
       },
-      "createdAt": "2026-01-20T02:28:27.105Z"
+      "createdAt": "2026-01-20T02:28:27.105Z",
+      "taxRate": 13,
+      "codFee": 100,
+      "shippingType": "free",
+      "shippingCharges": 0
     },
     {
       "id": "PROD002",
@@ -75,7 +79,11 @@
         "Fit": "Regular Fit",
         "Occasion": "Office, Formal"
       },
-      "createdAt": "2026-01-20T02:28:27.105Z"
+      "createdAt": "2026-01-20T02:28:27.105Z",
+      "taxRate": 13,
+      "codFee": 100,
+      "shippingType": "free",
+      "shippingCharges": 0
     }
   ],
   "coupleProducts": [
@@ -103,7 +111,11 @@
       "rating": 0,
       "reviews": 0,
       "reviewsList": [],
-      "createdAt": "2026-01-20T02:28:27.105Z"
+      "createdAt": "2026-01-20T02:28:27.105Z",
+      "taxRate": 13,
+      "codFee": 100,
+      "shippingType": "free",
+      "shippingCharges": 0
     }
   ],
   "orders": [
@@ -141,7 +153,17 @@
       "createdAt": "2026-01-21T15:35:37.255Z"
     }
   ],
-  "users": [],
+  "users": [
+    {
+      "id": "USR1769071169944",
+      "name": "hamza",
+      "email": "hamza@gmail.com",
+      "phone": "03024693551",
+      "address": "123 Street, City",
+      "password": "123cfg$5",
+      "createdAt": "2026-01-22T08:39:29.944Z"
+    }
+  ],
   "contactMessages": [],
   "settings": {
     "storeName": "AS",
