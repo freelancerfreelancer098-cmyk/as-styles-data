@@ -226,9 +226,9 @@
       },
       "paymentMethod": "cod",
       "paymentStatus": "paid",
-      "status": "delivered",
+      "status": "completed",
       "createdAt": "2026-01-22T10:35:57.761Z",
-      "updatedAt": "2026-01-22T10:45:23.307Z"
+      "updatedAt": "2026-01-22T10:46:02.532Z"
     }
   ],
   "users": [
