@@ -269,7 +269,18 @@
       "postalCode": "04021"
     }
   ],
-  "contactMessages": [],
+  "contactMessages": [
+    {
+      "id": "CONTACT1769078410021",
+      "name": "saad",
+      "email": "saadmirzag49@gmail.com",
+      "phone": "03024693551",
+      "subject": "product",
+      "message": "hi",
+      "date": "2026-01-22T10:40:10.021Z",
+      "status": "unread"
+    }
+  ],
   "settings": {
     "storeName": "AS",
     "storeEmail": "asstylesbuisness@gmail.com",
