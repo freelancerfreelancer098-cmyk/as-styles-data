@@ -189,6 +189,44 @@
       "paymentStatus": "pending",
       "status": "pending",
       "createdAt": "2026-01-22T08:51:24.607Z"
+    },
+    {
+      "id": "ORD78157760309",
+      "userId": "USR1769071636851",
+      "items": [
+        {
+          "id": "PROD002",
+          "name": "Women's Formal Blazer",
+          "price": 7199.2,
+          "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "quantity": 1,
+          "selectedSize": "M",
+          "selectedColor": "Black",
+          "productType": "regular",
+          "taxRate": 13,
+          "codFee": 100,
+          "shippingType": "free",
+          "shippingCharges": 0
+        }
+      ],
+      "subtotal": 7199.2,
+      "shipping": 0,
+      "codCharge": 100,
+      "taxRate": 13,
+      "tax": 935.896,
+      "total": 8235.096,
+      "shippingAddress": {
+        "name": "Zikria",
+        "email": "Zikria123@gmail.com",
+        "phone": "03080009213",
+        "address": "Lari Ada Road Sargodha",
+        "city": "sargodha",
+        "postalCode": "04021"
+      },
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "status": "pending",
+      "createdAt": "2026-01-22T10:35:57.761Z"
     }
   ],
   "users": [
