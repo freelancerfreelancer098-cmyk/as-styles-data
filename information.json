@@ -151,6 +151,44 @@
       "paymentStatus": "pending",
       "status": "pending",
       "createdAt": "2026-01-21T15:35:37.255Z"
+    },
+    {
+      "id": "ORD71884606115",
+      "userId": "USR1769071636851",
+      "items": [
+        {
+          "id": "PROD001",
+          "name": "Classic Navy Blue Suit",
+          "price": 9099.3,
+          "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "quantity": 1,
+          "selectedSize": "S",
+          "selectedColor": "Navy Blue",
+          "productType": "regular",
+          "taxRate": 13,
+          "codFee": 100,
+          "shippingType": "free",
+          "shippingCharges": 0
+        }
+      ],
+      "subtotal": 9099.3,
+      "shipping": 0,
+      "codCharge": 100,
+      "taxRate": 13,
+      "tax": 1182.9089999999999,
+      "total": 10382.208999999999,
+      "shippingAddress": {
+        "name": "Zikria",
+        "email": "Zikria123@gmail.com",
+        "phone": "03080009213",
+        "address": "Lari Ada Road Sargodha",
+        "city": "sargodha",
+        "postalCode": "04021"
+      },
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "status": "pending",
+      "createdAt": "2026-01-22T08:51:24.607Z"
     }
   ],
   "users": [
@@ -188,7 +226,9 @@
       "phone": "03080009213",
       "address": "Lari Ada Road Sargodha",
       "password": "Zikria12$&",
-      "createdAt": "2026-01-22T08:47:16.852Z"
+      "createdAt": "2026-01-22T08:47:16.852Z",
+      "city": "sargodha",
+      "postalCode": "04021"
     }
   ],
   "contactMessages": [],
