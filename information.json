@@ -162,6 +162,15 @@
       "address": "123 Street, City",
       "password": "123cfg$5",
       "createdAt": "2026-01-22T08:39:29.944Z"
+    },
+    {
+      "id": "USR1769071243998",
+      "name": "hamza",
+      "email": "hamza@gmail.com",
+      "phone": "03024693551",
+      "address": "123 Street, City",
+      "password": "bjbnbbjhb",
+      "createdAt": "2026-01-22T08:40:43.998Z"
     }
   ],
   "contactMessages": [],
