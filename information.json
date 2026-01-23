@@ -273,44 +273,6 @@
       "status": "completed",
       "createdAt": "2026-01-22T10:35:57.761Z",
       "updatedAt": "2026-01-22T10:46:02.532Z"
-    },
-    {
-      "id": "ORD91447872974",
-      "userId": "USR1767091123021",
-      "items": [
-        {
-          "id": "PROD001",
-          "name": "Classic Navy Blue Suit",
-          "price": 9099.3,
-          "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-          "quantity": 50,
-          "selectedSize": "M",
-          "selectedColor": "Gray",
-          "productType": "regular",
-          "taxRate": 13,
-          "codFee": 100,
-          "shippingType": "free",
-          "shippingCharges": 0
-        }
-      ],
-      "subtotal": 454964.99999999994,
-      "shipping": 0,
-      "codCharge": 100,
-      "taxRate": 13,
-      "tax": 59145.45,
-      "total": 514210.44999999995,
-      "shippingAddress": {
-        "name": "Ahmed",
-        "email": "freelancerfreelancer098@gmail.com",
-        "phone": "21212121212121211",
-        "address": "5",
-        "city": "1",
-        "postalCode": "111111"
-      },
-      "paymentMethod": "cod",
-      "paymentStatus": "pending",
-      "status": "pending",
-      "createdAt": "2026-01-22T14:17:27.873Z"
     }
   ],
   "users": [
@@ -437,5 +399,9 @@
       "description": "Comfortable yet stylish casual wear",
       "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
     }
-  ]
+  ],
+  "dashboardStats": {
+    "manualRevenue": null,
+    "lastRevenueUpdate": null
+  }
 }
