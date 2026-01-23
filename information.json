@@ -343,6 +343,15 @@
       "password": "Saad12$&",
       "emailVerified": true,
       "createdAt": "2026-01-23T06:44:47.302Z"
+    },
+    {
+      "id": "USR1769151372586",
+      "name": "saadnarratives",
+      "email": "saadnarratives@gmail.com",
+      "phone": "03024693551",
+      "address": "123 Street, City",
+      "password": "Saad12",
+      "createdAt": "2026-01-23T06:56:12.587Z"
     }
   ],
   "contactMessages": [
@@ -399,9 +408,5 @@
       "description": "Comfortable yet stylish casual wear",
       "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
     }
-  ],
-  "dashboardStats": {
-    "manualRevenue": null,
-    "lastRevenueUpdate": null
-  }
+  ]
 }
