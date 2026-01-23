@@ -371,6 +371,16 @@
       "password": "aaAA11@@",
       "emailVerified": true,
       "createdAt": "2026-01-23T02:50:34.426Z"
+    },
+    {
+      "id": "USR1769150687302",
+      "name": "Saad Mirza ",
+      "email": "saadnarratives@gmail.com",
+      "phone": "03086009321",
+      "address": "Lahore Road Prime valley Sargodha ",
+      "password": "Saad12$&",
+      "emailVerified": true,
+      "createdAt": "2026-01-23T06:44:47.302Z"
     }
   ],
   "contactMessages": [
