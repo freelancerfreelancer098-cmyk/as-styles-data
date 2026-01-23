@@ -351,6 +351,16 @@
       "createdAt": "2026-01-22T08:47:16.852Z",
       "city": "sargodha",
       "postalCode": "04021"
+    },
+    {
+      "id": "USR1769135966624",
+      "name": "Ahmed Omar",
+      "email": "freelancerfreelancer098@gmail.com",
+      "phone": "033",
+      "address": "CHK",
+      "password": "aaAA11@@",
+      "emailVerified": true,
+      "createdAt": "2026-01-23T02:39:26.624Z"
     }
   ],
   "contactMessages": [
@@ -407,9 +417,5 @@
       "description": "Comfortable yet stylish casual wear",
       "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
     }
-  ],
-  "dashboardStats": {
-    "manualRevenue": null,
-    "lastRevenueUpdate": null
-  }
+  ]
 }
