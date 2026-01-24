@@ -507,7 +507,9 @@
       "subject": "order",
       "message": "Hi",
       "date": "2026-01-24T11:08:21.737Z",
-      "status": "unread"
+      "status": "unread",
+      "read": true,
+      "readAt": "2026-01-24T11:08:52.701Z"
     }
   ],
   "settings": {
@@ -550,5 +552,9 @@
       "description": "Comfortable yet stylish casual wear",
       "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
     }
-  ]
+  ],
+  "dashboardStats": {
+    "manualRevenue": null,
+    "lastRevenueUpdate": null
+  }
 }
