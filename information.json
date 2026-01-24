@@ -484,17 +484,6 @@
       "address": "123 Street, City",
       "password": "111",
       "createdAt": "2026-01-23T14:05:42.708Z"
-    },
-    {
-      "id": "USR1769266573950",
-      "name": "Asad Omar",
-      "email": "iiebdhd658@gmail.com",
-      "phone": "033",
-      "address": "NO",
-      "password": "aaAA11@@",
-      "rawPassword": "aaAA11@@",
-      "emailVerified": true,
-      "createdAt": "2026-01-24T14:56:13.950Z"
     }
   ],
   "contactMessages": [
@@ -551,5 +540,9 @@
       "description": "Comfortable yet stylish casual wear",
       "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
     }
-  ]
+  ],
+  "dashboardStats": {
+    "manualRevenue": null,
+    "lastRevenueUpdate": null
+  }
 }
