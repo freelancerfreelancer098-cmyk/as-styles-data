@@ -471,6 +471,44 @@
       "paymentStatus": "pending",
       "status": "pending",
       "createdAt": "2026-01-25T04:49:04.667Z"
+    },
+    {
+      "id": "ORD21756238727",
+      "userId": "USR1769136634426",
+      "items": [
+        {
+          "id": "PROD001",
+          "name": "Classic Navy Blue Suit",
+          "price": 9099.3,
+          "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "quantity": 1,
+          "selectedSize": "L",
+          "selectedColor": "Black",
+          "productType": "regular",
+          "taxRate": 13,
+          "codFee": 100,
+          "shippingType": "free",
+          "shippingCharges": 0
+        }
+      ],
+      "subtotal": 9099.3,
+      "shipping": 0,
+      "codCharge": 100,
+      "taxRate": 13,
+      "tax": 1182.9089999999999,
+      "total": 10382.208999999999,
+      "shippingAddress": {
+        "name": "Ahmed Omar",
+        "email": "ahmedumerahmedumer52@gmail.com",
+        "phone": "0334828",
+        "address": "CHK",
+        "city": "1",
+        "postalCode": "1"
+      },
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "status": "pending",
+      "createdAt": "2026-01-25T06:15:56.239Z"
     }
   ],
   "users": [
