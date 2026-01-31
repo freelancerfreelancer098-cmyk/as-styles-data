@@ -509,6 +509,44 @@
       "paymentStatus": "pending",
       "status": "pending",
       "createdAt": "2026-01-25T06:15:56.239Z"
+    },
+    {
+      "id": "ORD73931607248",
+      "userId": "USR1769136634426",
+      "items": [
+        {
+          "id": "PROD002",
+          "name": "Women's Formal Blazer",
+          "price": 7199.2,
+          "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "quantity": 1,
+          "selectedSize": "S",
+          "selectedColor": "White",
+          "productType": "regular",
+          "taxRate": 13,
+          "codFee": 100,
+          "shippingType": "free",
+          "shippingCharges": 0
+        }
+      ],
+      "subtotal": 7199.2,
+      "shipping": 0,
+      "codCharge": 100,
+      "taxRate": 13,
+      "tax": 935.896,
+      "total": 8235.096,
+      "shippingAddress": {
+        "name": "Ahmed Omar",
+        "email": "ahmedumerahmedumer52@gmail.com",
+        "phone": "0334828",
+        "address": "CHK",
+        "city": "1",
+        "postalCode": "1"
+      },
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "status": "pending",
+      "createdAt": "2026-01-31T15:38:51.607Z"
     }
   ],
   "users": [
