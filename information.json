@@ -636,6 +636,17 @@
       "address": "123 Street, City",
       "password": "111",
       "createdAt": "2026-01-23T14:05:42.708Z"
+    },
+    {
+      "id": "USR1770025507296",
+      "name": "Saad Mirza",
+      "email": "saadmirzastudio@gmail.com",
+      "phone": "03086009321",
+      "address": "lahore road prime valley",
+      "password": "Saad49$&",
+      "rawPassword": "Saad49$&",
+      "emailVerified": true,
+      "createdAt": "2026-02-02T09:45:07.296Z"
     }
   ],
   "contactMessages": [
