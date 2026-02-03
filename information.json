@@ -49,43 +49,6 @@
       "shippingCharges": 0
     },
     {
-      "id": "PROD002",
-      "name": "Women's Formal Blazer",
-      "category": "women",
-      "subCategory": "",
-      "price": 8999,
-      "discount": 20,
-      "stock": 35,
-      "description": "Elegant formal blazer for professional women. Perfect for office wear and formal events.",
-      "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L"
-      ],
-      "colors": [
-        "Black",
-        "White",
-        "Gray",
-        "Navy"
-      ],
-      "rating": 0,
-      "reviews": 0,
-      "reviewsList": [],
-      "specifications": {
-        "Material": "Premium Polyester Blend",
-        "Color": "Black",
-        "Fit": "Regular Fit",
-        "Occasion": "Office, Formal"
-      },
-      "createdAt": "2026-01-20T02:28:27.105Z",
-      "taxRate": 13,
-      "codFee": 100,
-      "shippingType": "free",
-      "shippingCharges": 0
-    },
-    {
       "id": "PROD1769079121850",
       "name": "women 3 pc suit",
       "category": "women",
