@@ -695,13 +695,10 @@
       "name": "Formal Suits",
       "description": "Sophisticated suits for professional women",
       "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
-    },
-    {
-      "id": "casual",
-      "category": "women",
-      "name": "Casual Blazers",
-      "description": "Comfortable yet stylish casual wear",
-      "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
     }
-  ]
+  ],
+  "dashboardStats": {
+    "manualRevenue": null,
+    "lastRevenueUpdate": null
+  }
 }
