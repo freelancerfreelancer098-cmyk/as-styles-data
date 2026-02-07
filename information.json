@@ -234,13 +234,24 @@
         "Black",
         "Gray"
       ],
-      "rating": 4.5,
+      "rating": 5,
       "taxRate": 13,
       "codFee": 100,
       "shippingType": "free",
       "shippingCharges": 0,
-      "reviews": 0,
-      "reviewsList": [],
+      "reviews": 1,
+      "reviewsList": [
+        {
+          "id": "REV1770432240272",
+          "userId": "USR1770432193408",
+          "userName": "iiebdhd658",
+          "rating": 5,
+          "comment": "Test review",
+          "reviewImages": [],
+          "date": "2026-02-07T02:44:00.272Z",
+          "replies": []
+        }
+      ],
       "createdAt": "2026-02-06T05:42:52.097Z",
       "updatedAt": "2026-02-06T05:42:52.097Z"
     }
