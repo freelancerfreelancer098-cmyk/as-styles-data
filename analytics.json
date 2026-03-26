@@ -83,15 +83,18 @@
       "device": "mobile",
       "page": "/W:/Ahmed's%20Data/Ahmed%20Projects/AH-Styles/index.html",
       "referrer": ""
-    },
-    {
-      "timestamp": "2026-03-26T13:13:03.985Z",
-      "device": "mobile",
-      "page": "/W:/Ahmed's%20Data/Ahmed%20Projects/AH-Styles/index.html",
-      "referrer": ""
     }
   ],
-  "productViews": [],
+  "productViews": [
+    {
+      "timestamp": "2026-03-26T13:13:33.370Z",
+      "device": "mobile",
+      "productId": "PROD1774530120685",
+      "productName": "test",
+      "productCategory": "men",
+      "price": 199
+    }
+  ],
   "pageViews": [],
   "sessions": [],
   "devices": {
