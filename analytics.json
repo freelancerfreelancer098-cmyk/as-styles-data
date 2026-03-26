@@ -1,9 +1,18 @@
 {
-  "visits": [],
+  "visits": [
+    {
+      "timestamp": "2026-03-26T06:09:01.961Z",
+      "device": "desktop",
+      "page": "/W:/Ahmed's%20Data/Ahmed%20Projects/AH-Styles/index.html",
+      "referrer": ""
+    }
+  ],
   "productViews": [],
   "pageViews": [],
   "sessions": [],
-  "devices": {},
+  "devices": {
+    "desktop": 1
+  },
   "dailyStats": {},
   "hourlyStats": {}
 }
