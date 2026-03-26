@@ -121,11 +121,20 @@
       "referrer": ""
     }
   ],
-  "productViews": [],
+  "productViews": [
+    {
+      "timestamp": "2026-03-26T13:56:26.058Z",
+      "device": "mobile",
+      "productId": "PROD1774530120685",
+      "productName": "test",
+      "productCategory": "men",
+      "price": 199
+    }
+  ],
   "pageViews": [],
   "sessions": [],
   "devices": {
-    "mobile": 13,
+    "mobile": 14,
     "desktop": 7
   },
   "dailyStats": {},
