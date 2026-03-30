@@ -279,12 +279,20 @@
       "productName": "Gul Ahmed Digital Print Lawn 3 Piece Unstitched Suit for Women",
       "productCategory": "women",
       "price": 5000
+    },
+    {
+      "timestamp": "2026-03-30T01:44:57.728Z",
+      "device": "mobile",
+      "productId": "PROD1774677094775",
+      "productName": "Gul Ahmed Digital Print Lawn 3 Piece Unstitched Suit for Women",
+      "productCategory": "women",
+      "price": 5000
     }
   ],
   "pageViews": [],
   "sessions": [],
   "devices": {
-    "mobile": 34,
+    "mobile": 35,
     "desktop": 11
   },
   "dailyStats": {},
