@@ -293,6 +293,12 @@
       "device": "mobile",
       "page": "/W:/Ahmed's%20Data/Ahmed%20Projects/AH-Styles/index.html",
       "referrer": ""
+    },
+    {
+      "timestamp": "2026-04-05T05:38:58.246Z",
+      "device": "desktop",
+      "page": "/W:/Ahmed's%20Data/Ahmed%20Projects/AH-Styles/index.html",
+      "referrer": "direct"
     }
   ],
   "productViews": [
@@ -341,7 +347,7 @@
   "sessions": [],
   "devices": {
     "mobile": 39,
-    "desktop": 15
+    "desktop": 16
   },
   "dailyStats": {},
   "hourlyStats": {}
